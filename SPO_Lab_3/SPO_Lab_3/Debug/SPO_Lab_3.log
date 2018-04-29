@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\никита\documents\visual studio 2015\projects\spo_lab_3\spo_lab_3\source.cpp(36): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  SPO_Lab_3.vcxproj -> C:\Users\Никита\Documents\Visual Studio 2015\Projects\SPO_Lab_3\Debug\SPO_Lab_3.exe
+  SPO_Lab_3.vcxproj -> C:\Users\Никита\Documents\Visual Studio 2015\Projects\SPO_Lab_3\Debug\SPO_Lab_3.pdb (Full PDB)
